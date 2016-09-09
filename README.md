@@ -1,2 +1,6 @@
-# OFCourse_AnimationByCode_2016
-Code for OF Course - September 2016
+# OF Course / A Thousand Particles
+
+
+Instructor: Bernardo Schorr
+
+E-mail: [me@bernardoschorr.com](me@bernardoschorr.com)
